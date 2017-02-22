@@ -1,0 +1,44 @@
+<!DOCTYPE html>  <!--comment-->
+<html lang="es"> <!--lang="es" le da a entender que estará en español-->
+	<head>
+		<link rel="stylesheet" type="text/css" href="styles/styles.css"> <!-- linkear el archivo css -->
+		<meta charset="utf-8"> <!-- utf-8 permite agregar todo tipo de símbolos, debe ir dentro de head -->
+		<title> Lista de super </title>  
+		<link href='https://fonts.googleapis.com/css?family=Karla:400,700|Lobster|Oswald' rel='stylesheet' type='text/css'>
+	</head>
+	<body>
+		<h1> Lista de super </h1>
+		<p> Esta es mi lista </p> <!--h1 define el tamaño de la fuente, y p define el párrafo-->
+		<ol>						<!--order list-->
+			<li id="food">Comida</li>			<!-- elementos de la lista -->
+				<ul id="com">
+					<li>Pollo</li>
+						<img class="comida" id="pollo" src="img/pollo.jpg" alt="Pollo"> <!-- alt es semanticamente hermoso, también es posible usar varias clases para una misma imagen, en este caso, si se utilizan para la misma modificación, se verá el último -->
+					<li>Tomates</li>
+						<img class="comida" src="img/tomate.jpg" alt="Tomate">
+					<li>Zanahorias</li>
+						<img class="comida" src="img/zanahoria.jpg" alt="Zanahoria">
+				</ul>
+			<li id="clean">Limpieza</li>
+				<ul id="cle">
+					<li>Jabón</li>
+						<img class="limpieza" src="img/jabon.jpg" alt="Jabon">
+					<li>Escoba</li>
+						<img class="limpieza" src="img/escoba.jpg" alt="Escoba">
+					<li>Limpiador</li>
+						<img class="limpieza" src="img/limpiador.jpg" alt="Limpiador">
+				</ul>
+			<li id="things">Cosas</li>
+				<ul id="thi">
+					<li>CD</li>
+						<img class="cosas" src="img/cd.jpg" alt="CD">
+					<li>Audífonos</li>
+						<img class="cosas" src="img/audifonos.jpg" alt="Audifonos">
+					<li>Tele</li>
+						<img class="cosas" src="img/tele.jpg" alt="Tele">
+				</ul>
+		</ol>
+
+	</body>
+</html>
+

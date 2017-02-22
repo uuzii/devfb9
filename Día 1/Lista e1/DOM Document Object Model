@@ -1,0 +1,18 @@
+DOM Document Object Model
+
+CCS H]ojas de estilo en cascadas
+CCS y HTMl no son lenguajes de progrmación, Javascript si es lenguaje, no tiene nada que ver con jvive enn el navegadorava
+Los frameworks son códigos predeterminados. No se pueden usar mas de un framework a la vez
+Jquery es la librería más utilizada (React de Facebook)
+El frontend vive en el navegador 
+W3C define las tecnologías estándar de la Web 
+HTML es para la estructura general
+
+<html lang="es"> sirve para definir que es en español (en para inglés)
+<meta charset="utf-8"> debe estar en head y el utf-8 nos permite usar todos los símbolos de todos lon lenguajes
+
+CSS se basa en las etiquetas de HTML
+tamaños en CSS em px %
+No usar mayúsculas para archivos ni carpetas
+En css se pueden crear clases que superan a los tags comunes y generales y los id superan a las clases
+

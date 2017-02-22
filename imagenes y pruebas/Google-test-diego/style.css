@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header {
+    width: 100%;
+    height: 80px;
+}
+header nav {
+    width: 150px;
+    height: 100%;
+    display: inline-block;
+    float: right;
+}
+main {
+    width: 100%;
+    height: auto;
+    margin-top: 160px;
+}
+main section {
+    width: 100%;
+    text-align: center;
+}
+main .main-section_buttons {
+    padding: 30px 0;
+}
+main .main-section_buttons button {
+    margin-right: 10px;
+}
+main section input {
+    width: 550px;
+    height: 40px;
+}
+main section button {
+    width: 150px;
+    height: 40px;
+    border: 0;
+    background-color: #CBC9C9;
+}
+footer {
+    width: 100%;
+    height: 80px;
+    position: absolute;
+    bottom: 0;
+    background-color: #E0DEDE;
+    border: 1px solid #C1BFBF;
+}
+footer div {
+    display: inline-block;
+}
+footer div:last-child {
+    float: right;
+}

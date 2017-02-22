@@ -1,0 +1,24 @@
+Git y Github
+
+Repositorios: lugares donde se guardan los códigos y documentación
+Git, es el programa como tal, un registro de las versiones de nuestro programa,
+podemos guardar los programas, luego una aprte del progrma, y luego compartirlo
+también nos permite usar ramas que podemos trabajar en paralelo
+la rama master, es donde debe estar nuestro proyecto terminado, develop y ramas más abajo
+sirven para hacer peqeuñas modificaciones y al final se sube la versión master
+podrán verlo si lo usamos oúblicamente. GitHub es el portafolio de los desarrolladores
+stackoverflow
+
+creacion repositorio
+git init (iniciar un repositorio en ese folder)
+rm -rf .git (borrar el repositorio en daddo caso de meter la pata)
+oh my zsh (estilos para MAC :( )
+git status (verifica estado de los archivos)
+git add [file, *] (agregar un archivo o todos los archivos)
+git commit -m "mensaje" (subir los archivos agregados y agregar un comentario)
+git branch (muestra las ramas)
+git branch [name] (crea una rama a esa altura)
+git checkout [name] (cambia de rama)
+git merge (combina ramas)
+git log (vista a los commits)
+git checkout -b [name] (crea nueva rama y se pasa para allá)

@@ -1,0 +1,37 @@
+#encabezado{
+	font-size: 50px;
+	text-align: center;
+	color: white;
+	font-family: 'Lobster', cursive;
+	background-color: black;
+}
+
+#nav{
+	font-size: 16px;
+	text-align: center;
+	color: white;
+	font-family: 'Lobster', cursive;
+	background-color: #848484;
+}
+
+#pie{
+	font-size: 20px;
+	text-align: center;
+	color: white;
+	font-family: 'Lobster', cursive;
+	background-color: black;
+}
+
+#principal{
+	background: #E6E6E6 url(img/walmart.jpg);
+}
+
+#hola{
+	background-color: #F5F6CE;
+	float: left;
+}
+
+#hola1{
+	background-color: #F5F6CE;
+	float: right;
+}

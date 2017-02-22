@@ -1,0 +1,101 @@
+/*M E N U    S U P E R I O R*/
+#superior{
+	width: 100%;
+	height: 70px;
+}
+
+
+#menu_superior{
+	display: block;
+	display: flex;
+	text-align: right;
+	float: right;
+}
+
+#men{
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+.sup{
+	font-family: 'Open Sans', sans-serif;
+	padding-left: 20px;
+	padding-right: 20px;
+
+}
+
+#cuadro{
+	width: 40px
+}
+
+#sesion{
+	width: 170px;
+}
+
+/*L O G O    G O O G L E*/
+#google{
+	width: 500px;
+	padding-top: 110px;
+}
+
+#icon{
+	background-image: url(img/mic.jpg);
+	background-repeat: no-repeat;
+	background-position: right;
+}
+
+/*B O T O N E S    D E L   B U S C A D O R*/
+#boton{
+	display: flex;
+	margin-left: auto;
+	margin-right: auto;
+	width: 375px;
+}
+
+.botones{
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#luck{
+	width: 190px;	
+}
+
+#search{
+	width: 174.4px;	
+}
+
+/*F O O T E R*/
+.pie{
+	background-color: #F2F2F2;
+}
+
+
+#menu_izquierdo{
+	text-align: left;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#menu_derecho{
+	text-align: right;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.footmenu{
+	
+	padding-left: 17px;
+	padding-right: 17px;
+}
+
+#der{
+	padding-top: 10px;
+	float: right;
+}
+
+#izq{
+	padding-top: 10px;
+}
+
+.f{
+	display: inline-block;
+}

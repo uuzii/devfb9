@@ -1,0 +1,54 @@
+
+.comida{
+	width: 100px;
+}
+
+.limpieza{
+	width: 150px;
+}
+
+.cosas{
+	width: 200px;
+}
+
+
+#food, #clean{
+
+	font-size: 30px;
+	color: #070719;
+	font-family: 'Karla', sans-serif;
+	background-color: #FA5858;
+}
+
+/*#clean{
+	font-size: 40px;
+	color: #2E2EFE;
+	font-family: 'Lobster', cursive;
+	background-color: #FA5858;
+}*/
+
+#things{
+	font-size: 50px;
+	color: #00FF00;
+	font-family: 'Oswald', sans-serif;
+	background-color: #FA5858;
+}
+
+#com{
+	background-image: url(image/comida.jpg);
+	font-family: 'Karla', sans-serif;
+	color: #070719;
+
+}
+
+#cle{
+	background-image: url(image/limpieza.jpg);
+	font-family: 'Lobster', cursive;
+	color: #2E2EFE;
+}
+
+#thi{
+	background-image: url(image/cosas.jpg);
+	font-family: 'Oswald', sans-serif;
+	color: #00FF00;
+}

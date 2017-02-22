@@ -1,0 +1,52 @@
+#encabezado{
+	text-align: 
+	justify-content: left;
+	display: flex;
+}
+
+#cuadro{
+	height: 30px;
+}
+
+#google{
+	margin: 40px; 
+	width: 300px;
+	align-content: center;
+}
+
+#sesion{
+	height: 30px;
+}
+
+#goo{
+	text-align: center;
+	align-content: center;
+}
+
+#botonesbottom{
+	display: flex;
+	align-content: center;
+	text-align: center;
+}
+
+#buscador{
+	display: inline-block;
+	align-content: center;
+	text-align: center;
+	display: flex;
+	border: 1px black solid;
+}
+
+#mic{
+	width: 
+}
+
+.botbott{
+	width: 200px;
+}
+
+#elbuscador{
+	align-content: center;
+	text-align: center;
+	width: 400px;
+}

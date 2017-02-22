@@ -1,0 +1,599 @@
+*{
+	padding: 0;
+	margin: 0;
+	list-style:none;
+	text-decoration: none;
+	font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+header{
+	background-image: url(img/libros.png);
+	width: 100%;
+	height: 370px;
+}
+
+header div div{
+	display: inline-block;
+}
+
+header div aside{
+	margin-top: 30px;
+	margin-right: 190px;
+	width: 300px;
+	display: inline-block;
+	float: right;
+	font-family: "Lato", "Helvetica Neue", "Helvetica", sans-serif;
+	font-weight: normal;
+}
+
+#header_meet_img{
+	width: 400px;
+	display: inline-block;
+	margin-top: 50px;
+	margin-left: 250px;
+}
+
+#header_sup_logo{
+	padding-top: 12px;
+	margin-left: 160px;
+}
+
+#header_signin_button{
+	width: 70px;
+	background-color: #58371F;
+	color: white;
+	height: 27px;
+    border-radius: 3px;
+    font-family: "Lato", "Helvetica Neue", "Helvetica", sans-serif;
+    float: right;
+    border: none;
+	font-weight: normal;
+}
+
+.header_text_under_box{
+	color: #999999;
+	text-align: left;
+	font-size: 12px;
+	font-family: "Lato", "Helvetica Neue", "Helvetica", sans-serif;
+}
+
+.header_menu_register{
+	margin-top: 7px;
+}
+
+#header_menu_under_register{
+	width: 300px;
+}
+
+.header_menu_register_boxes{
+	width: 300px;
+    padding: 7px 5px;
+    margin: 0;
+    font-size: 16px;
+    font-weight: lighter;
+    background: #FFFFFF;
+    border-radius: 3px;
+    border: #DCD6CC 1px solid;
+    color: #333333;
+    font-family: "Lato", "Helvetica Neue", "Helvetica", sans-serif;
+    resize: none;
+}
+
+#header_button_signup_yellow{
+	padding: 8px;
+    border: 0px;
+    border-radius: 4px;
+    background-color: #fdd05f;
+    font-size: 18px;
+    line-height: 17px;
+    width: 85px;
+}
+
+#header_button_div_signup{
+	width: 85px;
+}
+
+.header_button_signup{
+	margin-bottom: 18px;
+	margin-top: 7px;
+	display: inline-block;
+}
+
+#header_button_signup_text{
+	color: #706b5f;
+    float: right;
+    font-size: 10px;
+    line-height: 12px;
+    width: 190px;
+}
+
+#header_aside_socialnet{
+
+    width: 310px;
+    height: 32px;
+    margin: 0 18px 0 0;
+    vertical-align: middle;
+    text-align: center;
+    padding: 13px 0 5px 0;
+    background: #333333;
+    color: white;
+    border-radius: 4px 4px 0 0;
+}
+
+#header_signin_social{
+	height: 32px;
+	vertical-align: middle;
+	padding-right: 10px;
+}
+
+#header_div_sup_nav{
+	float: right;
+	margin-right: 160px;
+}
+
+#header_div_sup{
+	width: 100%;
+    height: 75px;
+}
+
+#header_div_inf{
+	display: inline-block;
+	width: 100%;
+	height: 295px;
+}
+
+.header_boxtext
+{
+	float: right;
+	width: 120px;
+    padding: 5px;
+	margin: 2px;
+    font-size: 13px;
+    border-radius: 3px;
+    border: #DCD6CC 1px solid;
+    color: #333333;
+    font-family: "Lato", "Helvetica Neue", "Helvetica", sans-serif;
+}
+
+.header_nav{
+	margin-left: 2px;
+	margin-right: 2px;
+	margin-top: 5px;
+	margin-bottom: 20px;
+}
+
+#header_nav_login{
+	margin-left: 2px;
+	margin-right: 2px;
+	margin-top: 11px;
+	margin-bottom: 15px;
+}
+
+main{
+	margin-right: 140px;
+	margin-left: 160px;
+}
+
+main section{
+	width: 670px;
+	display: inline-block;
+}
+
+main section section{
+}
+
+#main_article{
+	border-radius: 10px;
+	}    
+
+.main_article_sections{
+	background-image: url(img/raya.png);
+	clear: both;
+    background-position: bottom;
+    background-repeat: repeat-x;
+	background-color:  #f4f2e9;
+}
+
+.main_first_text{
+	margin-bottom: 20px;
+	display: inline-block;
+	width: 335px;
+	font-family: "Lato", "Helvetica Neue", "Helvetica", sans-serif;
+
+}
+
+#main_first_text_right{
+	float: right;
+}
+
+.main_first_text_title{
+	color: #181818;
+	padding: 10px 10px 0 10px;
+	font-size: 18px;
+}
+
+.main_first_text_inside{
+	color: #181818;
+	margin: 10px;
+	font-size: 12px;
+}
+
+#main_article_principal{
+	color: #181818;
+	font-size: 18px;
+	font-family: "Lato", "Helvetica Neue", "Helvetica", sans-serif;
+	padding: 10px 0px 8px 13px;
+}
+
+.main_article_titles{
+	color: #181818;
+	font-size: 11.5px;
+	font-family: "Lato", "Helvetica Neue", "Helvetica", sans-serif;
+	display: inline-block;
+	padding: 15px 0px 2px 13px;
+}
+
+#main_article_titles_left{
+	width: 420px;
+}
+
+.main_article_books{
+	display: inline-block;
+}
+
+#main_article_books_left{
+	width: 420px;
+}
+
+.libros{
+	height: 120px;
+	padding: 17px 0px 12px 13px;
+}
+
+#book_img_right{
+	margin-left: 15px;
+}
+
+#search{
+	width: 670px;
+	padding: 20px 0 10px 0;
+}
+
+.main_div_search{
+	display: inline-block;
+	width: 335px;
+	height: 30px;
+	color: #000;
+    font-size: 18px;
+    font-weight: normal;
+    font-family: "Lato", "Helvetica Neue", "Helvetica", sans-serif;
+}
+
+#main_div_search_right{
+	float: right;
+}
+
+#main_search{
+	padding: 5px;
+	margin: 2px;
+    border-radius: 5px;
+    background-color: white;
+    width: 322px;
+    border: 1px solid #999;
+    background-image: url(img/lupa.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.main_genres{
+	font-family: "Lato", "Helvetica Neue", "Helvetica", sans-serif;
+	color: #00635d;
+	font-size: 12px;
+	display: inline-block;
+	width: 162px;
+}
+
+.main_ads{
+	vertical-align: top;
+	width: 215px;
+	display: inline-block;
+}
+
+#ad{
+	margin-top: 20px;
+}
+
+.foot_ads{
+
+    color: #00635d;
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.t_sec_titles{
+	font-family: "Lato", "Helvetica Neue", "Helvetica", sans-serif;
+	clear: both;
+    margin: 20px 0 10px 0;
+    color: #000;
+    font-size: 18px;
+}
+
+.main_quizzes_section{
+	text-align: left;
+	display: inline-block;
+}
+
+#main_quizzes_section_right{
+}
+
+.leters_in_quizz{
+	font-family: "Lato", "Helvetica Neue", "Helvetica", sans-serif;
+	font-size: 10px;
+}
+
+.img_quizzes{
+	width: 25px;
+}
+
+#imagenes_quizz{
+	width: 26px;
+}
+
+#jkrolling{
+	width: 50px;
+}
+
+.quotes_div{
+	display: inline-block;
+}
+
+#quotes_div_img{
+	width: 50px;
+	height: 120px;
+}
+
+#quotes_div_text{
+	font-size: 14px;
+	float: right;
+	width: 160px;
+}
+
+#more_trivia_hip{
+	margin-top: 12px;
+}
+
+#more_quizzes_hip{
+	margin-top: 30px;
+}
+
+#more_quotes_hip{
+	margin-top: 10px;
+}
+
+.options_trivia{
+	font-size: 14px;
+	color: #00635d;
+}
+
+.quizzes_books_hip{
+    font-size: 16px;
+    color: #00635d;
+}
+
+#final_section_main{
+	margin-top: 140px;
+	margin-bottom: 25px;
+}
+
+#awards_divs_title{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	color: #000;
+    font-size: 18px;
+}
+
+.awards_divs{
+	vertical-align: top;
+	display: inline-block;
+	width: 230px;	
+	color: #00635d;
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 18px;
+}
+
+#awards_divs_book{
+	vertical-align: top;
+	display: inline-block;
+	width: 140px;
+}
+
+main aside{
+	width: 347px;
+	float: right;
+	display: inline-block;
+}
+
+.titles_aside{
+	margin-top: 25px;
+	margin-bottom: 7px;
+	clear: both;
+    color: #000;
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.get_the_app_img{
+	display: inline-block;
+	width: 150px;
+	margin-right: 12px;
+}
+
+#img_users{
+	width: 335px;
+}
+
+#sponsored_links{
+	height: 320px;
+	margin-top: 25px;
+	background-color: #F4F1EA;
+	width: 335px;
+}
+
+#sponsored_links_title{
+	border-bottom: 1px gray solid;
+	background-position: top right;
+    background-repeat: no-repeat;
+    height: 28px;
+    overflow: hidden;
+    white-space: nowrap;
+    padding-left: 6px;
+    padding-top: 7px;
+    color: #382110;
+    font-family: "Lato", "Helvetica Neue", "Helvetica", sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#spon{
+	margin-top: 16px;
+}
+
+.sponsored_img{
+	width: 50px;
+}
+
+.sponsored_sections_img{
+	height: 100px;
+	display: inline-block;
+	width: 51px;
+}
+
+.sponsored_sections_text{
+	height: 100px;
+	margin-left: 8px;
+	float: right;
+	display: inline-block;
+	width: 260px;
+	font-size: 12px;
+	color: #181818;
+    font-family: "Lato", "Helvetica Neue", "Helvetica", sans-serif;
+    line-height: 18px;
+}
+
+.sponsored_books{
+	margin: 10px 0 16px 10px;
+}
+
+#sponsored_foot_div{
+	width: 335px;
+}
+
+#sponsored_foot{
+	margin-right: 15px;
+	margin-bottom: 15px;
+	text-align: right;
+	width: 300px;
+}
+
+#sponsored_foot_text{
+	color: #00635d;
+	font-size: 12px;
+}
+
+.lists_divs{
+	height: 50px;
+}
+
+.lists_titles_divs{
+	width: 200px;
+	display: inline-block;
+}
+
+.lists_images_divs{
+	width: 120px;
+	float: right;
+	display: inline-block;
+}
+
+.lists_image_book{
+	height: 40px;
+}
+
+.lists_titles{
+    color: #00635d;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.lists_data{
+	color: #aaaaaa;
+	font-size: 11px;
+    line-height: 14px;
+}
+
+#more_book_lists{
+	color: #00635d;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+#author_text{
+	font-size: 14px;
+	color: #181818;
+}
+
+#author_buttons{
+	margin-top: 20px;
+	text-align: center;
+}
+
+.author_buttons_style{
+	color: #333333;
+	font-size: 11px;
+    padding: 4px 12px;
+    display: inline-block;
+    color: #333333;
+    background-color: #f6f6ee;
+    border: 1px solid #9d8a78;
+    border-radius: 3px;
+    font-weight: bold;
+    text-decoration: none;
+    cursor: pointer;
+    line-height: 1;
+}
+
+footer{
+	background-color: #F4F1EA;
+	width: 100%;
+	height: 30px;
+	color: #666;
+    font-family: "Lato", "Helvetica Neue", "Helvetica", sans-serif;
+    font-size: 11px;
+    text-decoration: none;
+}
+
+#footer_contain{
+	padding-top: 9px;
+	vertical-align: middle;
+	margin-left: 160px;
+	margin-right: 130px;
+}
+
+
+#footer_sections_left{
+	display: inline-block;
+}
+
+#footer_sections_center{
+	margin-left: 140px;
+	display: inline-block;
+}
+
+#footer_sections_right{
+	display: inline-block;
+	float: right;
+}

@@ -1,0 +1,49 @@
+
+body{
+	background-image: url(img/biblioteca.jpg);
+	background-repeat: no-repeat;
+	background-position: top;
+	height: 100%;
+	background-size: cover;
+}
+
+header{
+	text-align: center;
+	width: 100%;
+	height: 55px;
+	background-color: #000000;
+    padding: 10px;
+    margin: 0px 0px 10px 0px;
+    opacity: 0.5;
+}
+
+#header_nav_left{
+	display: inline-block;
+	float: left;
+}
+
+#header_nav_right{
+	display: inline-block;
+	float: right;
+}
+
+main{
+	
+}
+
+#main_principal_text{
+	padding: 20px 0 20px 60px; 
+	width: 60%;
+	color: white;
+}
+
+#main_principal_button{
+	padding-left: 60px;
+}
+
+
+
+
+.escuelas_main_images{
+	height: 100px;
+}
